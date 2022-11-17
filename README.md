@@ -1,7 +1,7 @@
 LAND MANAGEMENT SYSTEM
 
 CONTENT OF THE FILE
-*Group Details
+
 *Files Included
 *Requirements to be Installed
 *Project Description
