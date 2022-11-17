@@ -1,0 +1,42 @@
+{
+    "Property A": {
+        "owner": null,
+        "price": 575
+    },
+    "Property B": {
+        "owner": null,
+        "price": 536
+    },
+    "Property C": {
+        "owner": null,
+        "price": 318
+    },
+    "Property D": {
+        "owner": null,
+        "price": 569
+    },
+    "Property E": {
+        "owner": null,
+        "price": 596
+    },
+    "Property F": {
+        "owner": null,
+        "price": 474
+    },
+    "Property G": {
+        "owner": null,
+        "price": 331
+    },
+    "Property H": {
+        "owner": null,
+        "price": 636
+    },
+    "Property I": {
+        "owner": null,
+        "price": 385
+    },
+    "Property J": {
+        "owner": null,
+        "price": 399
+    }
+}
